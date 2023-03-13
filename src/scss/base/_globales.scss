@@ -29,11 +29,13 @@ p {
 
 a {
     text-decoration: none;
+    color: v.$black;
 }
 
 img {
     max-width: 100%;
     display: block;
+    height: auto;
 }
 
 ul {

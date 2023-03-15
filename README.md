@@ -6,7 +6,7 @@
 
 This project was done in the CSS course at Udemy.
 
-We apply the following tools: 
+I apply the following tools: 
 
 - SASS architecture
 - GULP compiler
